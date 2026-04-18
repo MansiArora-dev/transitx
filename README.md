@@ -15,6 +15,17 @@ Features JWT-based authentication, role-based access control, geolocation-aware 
 | CI/CD | AWS CodePipeline + CodeBuild |
 | Source | GitHub (main branch) |
 
+
+## 📸 Screenshots
+
+### CI/CD Pipeline — All Stages Successful
+<img src="https://github.com/user-attachments/assets/61475662-9e1a-4a48-9554-6672a0767b48" width="750"/>
+
+
+### API in Action — Live on AWS
+<img src="https://github.com/user-attachments/assets/8b324407-a6f8-458e-8a6e-38c593af290b" width="750"/>
+
+
 ---
 
 ## 🔑 Core Features
